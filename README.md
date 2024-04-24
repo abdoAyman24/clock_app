@@ -47,3 +47,7 @@ Clock App with GetX and GetStorage To Store Data  and CustomPainter
 | Dark Screen
 |------
 |<img src="snapshot/dark.jpg" width="500">
+
+ 
+## Dependencies 💤
+ -  `get: ^4.3.8`
